@@ -7,9 +7,15 @@ Taggarna som ska användas är i semantiska HTML5 taggar.
 
 Ytterligare steg är
 Design med CSS.
+
 Bild.
+
 Navigering mellan kapitel.
+
 Länk till källa.
+
+## Publicering
+När sidan är klar provar vi att hosta med GIT pages, därför ska ditt arbete göras i docs mappen.
 
 ## Länkar
 * http://www.hplovecraft.com/writings/texts/fiction/dh.aspx
