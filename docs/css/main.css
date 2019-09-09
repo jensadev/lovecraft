@@ -34,8 +34,16 @@ h2 {
     font-family: 'Hind Madurai', sans-serif;
 }
 
-.chapter {
+.chapter > h2 {
+    border-bottom: 1px solid grey;
+}
 
+.chapter > h2::before, .chapter > h2::after {
+    content: " — ";
+    /* 
+        https://www.w3schools.com/charsets/ref_utf_punctuation.asp 
+        https://www.w3schools.com/cssref/sel_before.asp
+    */
 }
 /* <body class="unreadable"> */
 .unreadable {
