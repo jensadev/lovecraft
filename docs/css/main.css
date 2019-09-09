@@ -35,11 +35,12 @@ h2 {
 }
 
 .chapter > h2 {
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #7f8b7f;
 }
 
 .chapter > h2::before, .chapter > h2::after {
-    content: " — ";
+    content: " ‧ ";
+    color: #7f8b7f;
     /* 
         https://www.w3schools.com/charsets/ref_utf_punctuation.asp 
         https://www.w3schools.com/cssref/sel_before.asp
