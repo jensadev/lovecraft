@@ -1,13 +1,20 @@
+/*
+https://fontjoy.com/
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+font-family: 'Hind Madurai', sans-serif;
+font-family: 'Martel', serif;
+*/
+
 body {
-    background-color: darkolivegreen;
-    color: white;
+    background-color: #a3b6a4;
+    color: black;
     font-size: 16px;
 }
 
 main {
     width: 60%;
     margin: 0 auto;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Martel', serif;
     font-size: 1.2em;
 }
 
@@ -18,11 +25,13 @@ blockquote > footer {
 h1 {
     text-align: center;
     font-size: 2.4em;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
 h2 {
     text-align: center;
     font-size: 1.6em;
+    font-family: 'Hind Madurai', sans-serif;
 }
 
 .chapter {
