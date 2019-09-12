@@ -16,6 +16,15 @@ main {
     margin: 0 auto;
     font-family: 'Martel', serif;
     font-size: 1.2em;
+    display: flex;
+}
+
+nav {
+    width: 20%;
+}
+
+.book {
+    width: 80%;
 }
 
 blockquote > footer {
